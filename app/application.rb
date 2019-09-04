@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-class Application 
-=======
 class Application
 
   @@items = [Item.new("Figs",3.42), Item.new("Pears",0.99)]
@@ -23,4 +20,3 @@ class Application
     resp.finish
   end
 end
->>>>>>> 11c63f0d2428a3ec39dd20b6656202d2ba5c0a58
